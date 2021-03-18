@@ -12,10 +12,10 @@ https://www.youtube.com/watch?v=xm9umZfBwRA
 If you are interessted in the project you can join us on our discord server https://discord.gg/qKyfJAjmjs
 
 Current controls:
-      WASD for movement
-      Space for jump
-      mouse for camera rotation and shooting projectiles
-      F for teleporting to projectile with momentum
-      Left Shift for static teleport
+      WASD for movement,
+      Space for jump,
+      mouse for camera rotation and shooting projectiles,
+      F for teleporting to projectile with momentum,
+      Left Shift for static teleport,
 
 Developed with Unreal Engine 4
